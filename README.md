@@ -2,7 +2,7 @@
 
 ### Screenshot
 
-![Inventory - screenshot](screenshots/screenshot1.JPG)
+![Inventory - screenshot](screenshots/screenshot1.jpg)
 
 ### Requirements 🔧
 * Java version 8 or higher.
