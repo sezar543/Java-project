@@ -1,5 +1,21 @@
 # Inventory of Store
 
+### Screenshot
+
+![Inventory - screenshot](screenshot1.JPG)
+
+### Requirements 🔧
+* Java version 8 or higher.
+
+### Installation 🔌
+1. Press the **Fork** button (top right the page) to save copy of this project on your account.
+
+2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
+
+       git clone https://github.com/HouariZegai/Calculator.git
+3. Imported it in Intellij IDEA or any other Java IDE.
+4. Run the application :D
+---------------------------------------------
 ## Management of Inventory
 
 The application will manage inventory of a store. It will be used by the manager of store. This application will consist of some features to better manage and organize a store's inventory such as:
@@ -26,7 +42,7 @@ The application will manage inventory of a store. It will be used by the manager
 
 Note that in this project, we control the concept of time manually and can move time to the next day because for the purpose of testing, it is not practical to wait few days and see how the discount will be applied on items.
 
-P.S. Part of the codes of this project are taken with changes from the project **FitLiefGymChain**.
+P.S. Part of the codes of this project are taken with changes from the project **FitLifeGymChain**.
 
 ## Phase 4: Task 2
 
